@@ -31,6 +31,7 @@ In your terminal of choice, run the following:
 3. npm init -y
 4. npm install solc@0.8.9 web3 mocha ganache @truffle/hdwallet-provider
 
+
 2. **Updated Metamask Setup for new UI**
 
 This note will provide instructions for setting up Metamask with its new UI.
