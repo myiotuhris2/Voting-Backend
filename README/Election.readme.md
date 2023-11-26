@@ -79,7 +79,7 @@ This note will provide instructions for setting up Metamask with its new UI.
 
 
 
-3. **Obtaining More Test Ether from Recommended Faucet**
+**3. Obtaining More Test Ether from Recommended Faucet**
 
 Since we will be using the Sepolia Network, we will need to use a Sepolia faucet to obtain test ether. All current faucets require some level of authentication to protect against DOS attacks and bots.
 
@@ -125,7 +125,7 @@ Since we will be using the Sepolia Network, we will need to use a Sepolia faucet
 
 
 
-4. **Infura Signup**
+**4. Infura Signup**
 
 In this project, we are going to signup for an Infura account so that we can create an API key. Remember, Infura is just going to give us access to an outside test network to use.
 
